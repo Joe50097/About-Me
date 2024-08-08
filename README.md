@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joe50097,
-- 👀 I’m interested in coding, gaming and music.
-- 🌱 I’m currently learning coding.
+- 😄 Pronouns: he/him
+- 👀 I’m interested in coding, gaming, and music.
+- 💻 My skills include Python, Discord.py, HTML, CSS, and a bit of JavaScript.
 - 📫 How to reach me: Visit my website at [joe50097.is-a.dev](https://joe50097.is-a.dev/) to get in touch!
-- 😄 Pronouns: He/Him
 - ⚡ Did you know? I've developed my own Discord bot from scratch!
