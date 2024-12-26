@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joe50097,
+- 👋 Hi, I’m Joe,
 - 😄 Pronouns: he/him
 - 👀 I’m interested in coding, gaming, and music. I'm currently studying CS (Computer Science) at university.
 - 💻 My skills include Python, Discord.py, HTML, CSS, and a bit of JavaScript. Additionally, I'm learning C++ in university.
