@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joe,
 - 😄 Pronouns: he/him
 - 👀 I’m interested in coding, gaming, and music. I'm currently studying Computer Science (CS) at university.
-- 💻 My skills include Python, Discord.py, HTML, CSS, and a bit of JavaScript. Additionally, I'm learning C++ in university.
+- 💻 My skills include Python, C++, HTML, CSS, and JavaScript.
 - 📫 How to reach me: Visit my website at [joe50097.is-a.dev](https://www.joe50097.is-a.dev/) to get in touch!
 - ⚡ Did you know? I've developed my own Discord bot from scratch! Check it out at [aimibot.com](https://www.aimibot.com/)
